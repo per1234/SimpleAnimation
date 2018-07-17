@@ -12,8 +12,8 @@ FillCommand	KEYWORD1
 FadeCommand	KEYWORD1
 DelayCommand	KEYWORD1
 CommandSequence	KEYWORD1
-LoopCommand KEYWORD1
-ParallelCommand KEYWORD1
+LoopCommand	KEYWORD1
+ParallelCommand	KEYWORD1
 
 
 #######################################
@@ -28,11 +28,11 @@ expired	KEYWORD2
 # Command methods
 begin	KEYWORD2
 update	KEYWORD2
-isDone  KEYWORD2
+isDone	KEYWORD2
 
 # Misc methods
-init    KEYWORD2
-add KEYWORD2
+init	KEYWORD2
+add	KEYWORD2
 
 #######################################
 # Structures (KEYWORD3)
@@ -47,8 +47,8 @@ LedStrip	KEYWORD3
 # Direction
 FORWARD	LITERAL1
 REVERSE	LITERAL1
-IN LITERAL1
-OUT LITERAL1
+IN	LITERAL1
+OUT	LITERAL1
 
 
 #######################################
